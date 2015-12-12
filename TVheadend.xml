@@ -10,5 +10,5 @@
 This plugin installs a stable version of tvheadend, a TV streaming backend, on your unRaid machine. It supports DVB-S, DVB-S2, DVB-C, DVB-T, ATSC, IPTV, SAT-IP and HDHomeRun as input sources.
 </Description>
 <Support>http://lime-technology.com/forum/index.php?topic=40704.0</Support>
-<Icon>https://avatars0.githubusercontent.com/u/1908588?v=3&s=400</Icon>
+<Icon>https://raw.githubusercontent.com/Squidly271/Mettbrot-s-plugin-repo/master/tvheadend.png</Icon>
 </Containers>
