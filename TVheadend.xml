@@ -3,7 +3,7 @@
 <Plugin>True</Plugin>
 <PluginURL>https://raw.githubusercontent.com/Mettbrot/unRAID/master/tvheadend.plg</PluginURL>
 <PluginAuthor>Mettbrot</PluginAuthor>
-<Beta>True</Beta>
+<Beta>False</Beta>
 <Category>Tools:System MediaApp:Video MediaServer:Video</Category>
 <Name>TVHeadend</Name>
 <Description>
